@@ -83,5 +83,3 @@ function solution(priorities, location) {
     return answer;  
     
 }
-
-solution([2,1,3,2],2)
